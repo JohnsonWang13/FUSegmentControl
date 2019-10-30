@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## FUSegmentControl
 
-Copyright (c) 2019 Johnson <johnsonwang@icsgame.com>
+Copyright (c) 2019 Johnson <jj801113@gmail.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
