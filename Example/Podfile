@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'FUSegmentControl_Example' do
+  pod 'FUSegmentControl', :path => '../'
+
+  target 'FUSegmentControl_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
