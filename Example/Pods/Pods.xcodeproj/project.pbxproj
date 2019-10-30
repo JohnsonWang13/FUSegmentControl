@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		2C46C4792369355B00638F37 /* SegmentControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C46C4782369355B00638F37 /* SegmentControl.swift */; };
+		2C46C4792369355B00638F37 /* FUSegmentControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C46C4782369355B00638F37 /* FUSegmentControl.swift */; };
 		4A54597ACD53D381247E162AFB55341A /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
 		4A634B56642ECD18632F3543CDDB5E6B /* FUSegmentControl-umbrella.h in Headers */ = {isa = PBXBuildFile; fileRef = FFBC19234C2B22B5AA257776804B2F16 /* FUSegmentControl-umbrella.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		8296457DE0192A381A7B735AED77ACCB /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */; };
@@ -42,7 +42,7 @@
 		1B65BB060F2776AFAB37F56C0E49EED7 /* Pods-FUSegmentControl_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-FUSegmentControl_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		22B6503DA98A152658C67BF9CB448183 /* FUSegmentControl-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "FUSegmentControl-prefix.pch"; sourceTree = "<group>"; };
 		25FD5A3C1FD54907A713E4D11993A4CD /* Pods_FUSegmentControl_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_FUSegmentControl_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		2C46C4782369355B00638F37 /* SegmentControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SegmentControl.swift; sourceTree = "<group>"; };
+		2C46C4782369355B00638F37 /* FUSegmentControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FUSegmentControl.swift; sourceTree = "<group>"; };
 		30C8DEAA9638D82B56B4159EA809F4C4 /* Pods-FUSegmentControl_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-FUSegmentControl_Example-dummy.m"; sourceTree = "<group>"; };
 		3212113385A8FBBDB272BD23C409FF61 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		35C415315357CE96F6B33381DD09813E /* Pods-FUSegmentControl_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-FUSegmentControl_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
@@ -102,7 +102,7 @@
 		2C46C47A2369356900638F37 /* Classes */ = {
 			isa = PBXGroup;
 			children = (
-				2C46C4782369355B00638F37 /* SegmentControl.swift */,
+				2C46C4782369355B00638F37 /* FUSegmentControl.swift */,
 			);
 			path = Classes;
 			sourceTree = "<group>";
@@ -381,7 +381,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E485616D0605C1C7915F9EC83DCE553D /* FUSegmentControl-dummy.m in Sources */,
-				2C46C4792369355B00638F37 /* SegmentControl.swift in Sources */,
+				2C46C4792369355B00638F37 /* FUSegmentControl.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,6 +1,6 @@
 import UIKit
 
-@objc class SegmentControl: UIControl {
+@objc class FUSegmentControl: UIControl {
     
     @objc enum segmentStyle: Int {
         case rectangle
@@ -301,7 +301,7 @@ import UIKit
     }
 }
 
-extension SegmentControl: UIScrollViewDelegate {
+extension FUSegmentControl: UIScrollViewDelegate {
     func scrollViewDidScroll(_ scrollView: UIScrollView) {
         scrollView.contentOffset.y = 0
     }
