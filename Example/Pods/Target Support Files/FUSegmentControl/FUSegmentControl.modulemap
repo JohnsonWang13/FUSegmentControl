@@ -1,0 +1,6 @@
+framework module FUSegmentControl {
+  umbrella header "FUSegmentControl-umbrella.h"
+
+  export *
+  module * { export * }
+}

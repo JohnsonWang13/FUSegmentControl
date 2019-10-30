@@ -22,7 +22,7 @@ pod 'FUSegmentControl'
 
 ## Author
 
-Johnson, johnsonwang@icsgame.com
+Johnson, jj801113@gmail.com
 
 ## License
 
