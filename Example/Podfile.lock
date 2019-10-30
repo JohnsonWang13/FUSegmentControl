@@ -1,0 +1,16 @@
+PODS:
+  - FUSegmentControl (0.1.0)
+
+DEPENDENCIES:
+  - FUSegmentControl (from `../`)
+
+EXTERNAL SOURCES:
+  FUSegmentControl:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FUSegmentControl: 852228dea8a7aedab9f6468e4813816390368e16
+
+PODFILE CHECKSUM: b735b207cf06f8fe50a610ff97d07b9aa42feda6
+
+COCOAPODS: 1.7.5

@@ -1,0 +1,22 @@
+{
+  "name": "FUSegmentControl",
+  "version": "0.1.0",
+  "summary": "A short description of FUSegmentControl.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Johnson/FUSegmentControl",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Johnson": "johnsonwang@icsgame.com"
+  },
+  "source": {
+    "git": "https://github.com/Johnson/FUSegmentControl.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FUSegmentControl/Classes/**/*"
+}
