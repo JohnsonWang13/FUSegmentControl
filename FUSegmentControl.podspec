@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '10.0'
 
-  s.source_files = 'FUSegmentControl/Classes/'
+  s.source_files = 'FUSegmentControl/Classes/*.swift'
   
   # s.resource_bundles = {
   #   'FUSegmentControl' => ['FUSegmentControl/Assets/*.png']
